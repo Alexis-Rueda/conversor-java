@@ -25,5 +25,11 @@ bin/
 ### VS Code ###
 .vscode/
 
+### Idea ###
+.idea/
+
+### Hide api key
+src/com/currencyconverter/api/ApiInfo.java
+
 ### Mac OS ###
 .DS_Store
